@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,45:211A0B,75:72551A,100:C9A227&height=220&section=header&text=LYRA&fontSize=76&fontColor=F5D889&fontAlignY=36&desc=SOFTWARE%20%7C%20FDE%20%7C%20AI%20%7C%20PRODUCT%20THINKING&descSize=15&descColor=F5F0E5&descAlignY=59" width="100%" alt="Snehaa black and gold developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,45:211A0B,75:72551A,100:C9A227&height=220&section=header&text=Snehaa&fontSize=76&fontColor=F5D889&fontAlignY=36&desc=SOFTWARE%20%7C%20FDE%20%7C%20AI%20%7C%20PRODUCT%20THINKING&descSize=15&descColor=F5F0E5&descAlignY=59" width="100%" alt="Snehaa black and gold developer banner"/>
 
 ### Building software that matters.
 
@@ -56,7 +56,7 @@ Understand the problem. Build a practical solution. Learn from real-world feedba
 </td>
 <td width="52%" align="center" valign="middle">
 
-<img src="./assets/developer-art.png" width="100%" alt="Dark cinematic illustration of a developer working in a gold-lit software studio"/>
+<img src="./developer-art.png" width="100%" alt="Dark cinematic illustration of a developer working in a gold-lit software studio"/>
 
 <sub>BUILD · LEARN · DEPLOY · MAKE AN IMPACT</sub>
 
