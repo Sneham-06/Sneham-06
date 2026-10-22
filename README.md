@@ -29,41 +29,42 @@
 
 ---
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+<h2 align="center">🤍 ABOUT ME</h2>
 
 <table>
 <tr>
-<td width="48%" valign="middle">
+<td width="50%" valign="middle">
 
-### 👋 Hey, I'm Sneha Mudgal!
+<div align="center">
 
-I'm an engineering student at **BMSIT, Bengaluru**, interested in software, AI-powered applications, creativity, and product thinking.
+### ✧ Sneha Mudgal ✧
 
-I enjoy exploring how technology can solve real problems — from understanding a user's needs to building a working software solution.
+*Software • FDE • AI • Product Thinking*
 
-**Currently exploring**
-- 🚀 Forward Deployed Engineering (FDE)
-- 💻 Software development and application engineering
-- 🤖 Generative AI and agentic AI
-- 🎨 UI/UX, creative problem solving, and product thinking
+━━━━━━━━━━━━━━━━━━
 
-**My approach**
+🤍 Building software that solves real problems
 
-Understand the problem. Build a practical solution. Learn from real-world feedback.
+🚀 Exploring Forward Deployed Engineering
 
-> I don't just want to build software. I want to build solutions that matter.
+✨ Exploring GenAI and agentic AI
+
+🎨 Creativity meets product thinking
+
+━━━━━━━━━━━━━━━━━━
+
+**BUILD · LEARN · DEPLOY · IMPACT**
+
+</div>
 
 </td>
-<td width="52%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="./developer-art.png" width="100%" alt="Dark cinematic illustration of a developer working in a gold-lit software studio"/>
-
-<sub>BUILD · LEARN · DEPLOY · MAKE AN IMPACT</sub>
+<img src="./developer-art.png" width="100%" alt="Dark cinematic developer illustration"/>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <h2 align="center">✦ WHAT I'M EXPLORING ✦</h2>
